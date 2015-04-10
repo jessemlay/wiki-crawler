@@ -1,0 +1,1 @@
+This is a web crawler specially designed to crawl and map wiki's
